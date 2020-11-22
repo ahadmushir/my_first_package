@@ -1,2 +1,7 @@
 mypackage/__pycache__/
+<<<<<<< HEAD
 my_package_ahadmushir.egg-info/
+=======
+mypackage.egg-info
+my_package_ahadmushir.egg-info
+>>>>>>> 57c91b3307c9e05d560ec8948358157b24a5a90f
