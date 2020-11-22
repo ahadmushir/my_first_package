@@ -9,4 +9,4 @@ or
 `pip install -i https://test.pypi.org/simple/ my-package-ahadmushir==0.0.1`
 
 
-![Syntax Checker](https://github.com/ahadmushir/my_first_package/workflows/Syntax%20Checker/badge.svg?event=deployment_status)
+![Syntax Checker](https://github.com/ahadmushir/my_first_package/workflows/Syntax%20Checker/badge.svg?event=pull_request)
