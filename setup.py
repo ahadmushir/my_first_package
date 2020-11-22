@@ -1,8 +1,8 @@
 from setuptools import setup
-setup(name='mypackage',
+setup(name='my-package-ahadmushir',
 version='0.0.1',
 description='Testing installation of Package',
-url='#',
+url='https://github.com/ahadmushir/my_first_package',
 author='ahadmushir',
 author_email='a.ahad.mushir@gmail.com',
 license='MIT',
